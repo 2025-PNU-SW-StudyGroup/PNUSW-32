@@ -159,7 +159,7 @@ $ npm run dev
 ### 6. 팀 소개
 | MEMBER1 | MEMBER2 | MEMBER3 |
 |:-------:|:-------:|:-------:|
-|<img width="100px" alt="김진" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/fe4e8910-4565-4f3f-9bd1-f135e74cb39d" /> | <img width="100px" alt="김성채" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/fe4e8910-4565-4f3f-9bd1-f135e74cb39d" /> | <img width="100px" alt="최영환" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/675d8471-19b9-4abc-bf8a-be426989b318" /> |<img width="100px" alt="MEMBER4" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/675d8471-19b9-4abc-bf8a-be426989b318" />
+|<img width="100px" alt="김진" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/fe4e8910-4565-4f3f-9bd1-f135e74cb39d" /> | <img width="100px" alt="김성채" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/fe4e8910-4565-4f3f-9bd1-f135e74cb39d" /> | <img width="100px" alt="최영환" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/675d8471-19b9-4abc-bf8a-be426989b318" /> |<img width="100px" alt="MEMBER4" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/675d8471-19b9-4abc-bf8a-be426989b318" />|
 |jinjinjara1022@naver.com| tony2000m@pusan.ac.kr | member3@naver.com | member3@naver.com | 
 | 분류 모델 개발 | 데이터 증강 및 모델 개발 | 데이터 전처리 및 모델 개발  | 분류 모델 개발 |
 
